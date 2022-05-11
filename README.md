@@ -12,7 +12,5 @@
 </p>
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeduardosa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jeduardosa github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardosa&layout=compact&theme=buefy&hide_border=true" />|
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeduardosa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jeduardosa github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardosa&layout=compact&theme=buefy&hide_border=true" />
 </div>
