@@ -11,6 +11,6 @@
   </a>
 </p>
 
-<div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardosa&layout=compact&theme=buefy&hide_border=true" />
 </div>
