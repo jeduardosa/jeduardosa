@@ -1,6 +1,6 @@
 
 Busco me tornar um programador de excelência na área de desenvolvimento mobile, com foco em Android utilizando Kotlin, seguindo as boas práticas e padrões de arquitetura que mais se destacam no mercado, e que garantem a escalabilidade e otimização de aplicações de forma efetiva. Junto a isso, me preocupo muito em também adquirir e aprimorar habilidades interpessoais, que possam agilizar esse processo de aprendizado e garantir que o trabalho em equipe seja sempre realizado da melhor maneira possível pelo time.
-Minhas experiências anteriores são na área de suporte, então estou buscando fazer uma transição de carreira.
+<br> Minhas experiências anteriores são na área de suporte, então estou buscando fazer uma transição de carreira.
 
 <p align="center">
 🚀 Java | Kotlin
