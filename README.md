@@ -1,6 +1,5 @@
 
-Sou da área de Suporte técnico e estou em transição de carreira para a área de desenvolvimento. Me identifiquei bastante com a área Mobile.
-Busco me tornar um programador com foco em Android utilizando Java e Kotlin.
+
 
 <p align="center">
 🚀 Java | Kotlin
