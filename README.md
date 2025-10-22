@@ -55,7 +55,7 @@ fun main() {
     val minhaJornada = listOf(
         "🎓 Graduado em [Análise de Desenvolvimento de Sistemas]",
         "📚 500+ horas de cursos Android",
-        "💻 2 projetos Android publicados",
+        "💻 0 projetos Android publicados na loja",
     )
     
     minhaJornada.forEach { println("★ $it") }
