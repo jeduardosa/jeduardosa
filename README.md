@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Eduardo
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E000&width=435&lines=Desenvolvedor+Android+em+Forma%C3%A7%C3%A3o;Kotlin+%7C+Java+Enthusiast;Aprendizado+Cont%C3%ADnuo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E000&width=435&lines=Desenvolvedor+Android+em+Forma%C3%A7%C3%A3o;Kotlin+%7C+Enthusiast;Aprendizado+Cont%C3%ADnuo" alt="Typing SVG" /></a>
 </div>
 
 ---
