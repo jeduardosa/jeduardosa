@@ -40,10 +40,9 @@
 
 ### 📚 **O Que Estou Aprendendo Agora**
 
-- 🧩 Jetpack Compose/XML
-- 🏗️ Clean Architecture e MVVM
+- 🧩 Jetpack Compose
+- 🧪 Desenvolvimento Assistido com IA
 - 🔄 Padrões de projetos
-- 🧪 Implementação de API com Retrofit
 
 ---
 
